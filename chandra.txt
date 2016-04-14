@@ -1,1 +1,5 @@
 hi chandra
+<<<<<<< HEAD
+=======
+how r u
+>>>>>>> 197215ad62bfffc799af6812c221b0f6e9cf6a32
